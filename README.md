@@ -8,7 +8,7 @@
 
 # Session 2:
 
-1. Deploy a Web App - [https://github.com/Azure-Readiness/DevCamp/tree/master/HOL/get-started-with-websites-and-asp-net](https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/get-started-with-websites-and-asp-net)
+1. Deploy a ASP.NET Web App - [https://github.com/Azure-Readiness/DevCamp/tree/master/HOL/get-started-with-websites-and-asp-net](https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/get-started-with-websites-and-asp-net)
 2. Create a ToDoList Sample App - [https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-get-started/](https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-get-started/)
 3. Create An API App in ASP.NET - [https://github.com/Azure/azure-content/blob/master/articles/app-service-api/app-service-dotnet-create-api-app.md](https://github.com/Azure/azure-content/blob/master/articles/app-service-api/app-service-dotnet-create-api-app.md)
 4. Connect a web app to an API
