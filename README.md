@@ -54,5 +54,7 @@
      SQL Database Elastic Scale - [https://github.com/Azure-Readiness/DevCamp/tree/master/HOL/sql-database](https://github.com/Azure-Readiness/DevCamp/tree/master/HOL/sql-database)
 
  
-
- 
+#Evaluation
+1. Christchurch - [http://aka.ms/devcloudfeb16chch](http://aka.ms/devcloudfeb16chch)
+2. Wellington - [http://aka.ms/devcloudfeb16wel](http://aka.ms/devcloudfeb18wel)
+3. Auckland - [http://aka.ms/devcloudfeb23akl](http://aka.ms/devcloudfeb23akl)
