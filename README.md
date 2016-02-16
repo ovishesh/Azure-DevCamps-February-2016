@@ -23,7 +23,7 @@
 
 1. Manage you first API in API
      Management - [https://azure.microsoft.com/en-us/documentation/articles/api-management-get-started/](https://azure.microsoft.com/en-us/documentation/articles/api-management-get-started/)
-2. Protect an API app: Add Azure Active Directory or social provider authentication - [https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-add-authentication/](https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-add-authentication/) 
+2. Protect an API app: Add Azure Active Directory or social provider authentication - [https://github.com/Azure/azure-content/blob/master/articles/app-service-api/app-service-api-dotnet-add-authentication.md](https://github.com/Azure/azure-content/blob/master/articles/app-service-api/app-service-api-dotnet-add-authentication.md) 
 3. [Video] Protecting Web API
      Backend with Azure Active Directory and API Management - [https://channel9.msdn.com/Blogs/AzureApiMgmt/Protecting-Web-API-Backend-with-Azure-Active-Directory-and-API-Management](https://channel9.msdn.com/Blogs/AzureApiMgmt/Protecting-Web-API-Backend-with-Azure-Active-Directory-and-API-Management)
 
