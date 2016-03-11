@@ -1,9 +1,6 @@
 # Session 1:
 
 1. New Azure Portal - [https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/working-with-the-new-portal](https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/working-with-the-new-portal)
-2. Working with the current
-     Management Portal - [https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/working-with-the-management-portal](https://github.com/Azure-Readiness/DevCamp/blob/master/HOL/working-with-the-management-portal)
-
  
 
 # Session 2:
